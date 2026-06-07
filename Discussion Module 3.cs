@@ -19,10 +19,10 @@ class Program
     {
         // Create instances of Panda
         Panda panda1 = new Panda();
-        panda1.Name = "Po";
+        panda1.Name = "Mary";
 
         Panda panda2 = new Panda();
-        panda2.Name = "Ling";
+        panda2.Name = "Ring";
 
         // Call the method
         panda1.Marry(panda2);
